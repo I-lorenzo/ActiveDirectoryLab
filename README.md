@@ -28,14 +28,9 @@ This project demonstrates the setup and configuration of a fully functional **Ac
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/QthdfWs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/G81L1EE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   
-<p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/qsFqbHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
 ---
 
 ### 2. Domain Controller Configuration
@@ -159,6 +154,11 @@ Launch the utility: <br/>
   - Confirmed read/write permissions
   - Tested restricted users (access denied scenarios)
 
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
 ---
 
 ### 7. PowerShell Automation 💡
