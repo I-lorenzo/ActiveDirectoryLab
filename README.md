@@ -84,27 +84,27 @@ Launch the utility: <br/>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/Imcxert.png" height="80%" width="80%" alt="Add user"/>
+<img src="https://imgur.com/Imcxert.png" height="80%" width="80%" alt="Organizational Structure"/>
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/V6pvH17.png" height="80%" width="80%" alt="Add OU & Users"/>
+<img src="https://imgur.com/V6pvH17.png" height="80%" width="80%" alt="Organizational Structure"/>
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/NPr0k17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NPr0k17.png" height="80%" width="80%" alt="Organizational Structure"/>
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/8iL8yBD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8iL8yBD.png" height="80%" width="80%" alt="Organizational Structure"/>
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/D79k6jt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/D79k6jt.png" height="80%" width="80%" alt="Organizational Structure"/>
 <br />
 
 ---
@@ -119,17 +119,17 @@ Launch the utility: <br/>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/ia2Aggi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ia2Aggi.png" height="80%" width="80%" alt="Shared Folder Configuration"/>
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/EbM6eMF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EbM6eMF.png" height="80%" width="80%" alt="Shared Folder Configuration"/>
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/Ezp60gZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ezp60gZ.png" height="80%" width="80%" alt="Shared Folder Configuration"/>
 <br />
 
 ### 4. Network Drive Mapping
@@ -140,12 +140,12 @@ Launch the utility: <br/>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/EyRWejh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EyRWejh.png" height="80%" width="80%" alt="Drive Mapping"/>
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/hzNJmOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hzNJmOA.png" height="80%" width="80%" alt="Drive Mapping"/>
 <br />
 
 ### 5. Access Control Testing
@@ -155,7 +155,7 @@ Launch the utility: <br/>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ee7n8yI.png" height="80%" width="80%" alt="users"/>
 <br />
   
 ---
@@ -175,37 +175,11 @@ Developed a PowerShell script to automate user creation.
 - Sets default password
 - Enables accounts
 
-```powershell
-param (
-    [Parameter(Mandatory=$true)]
-    [string]$FirstName,
-
-    [Parameter(Mandatory=$true)]
-    [string]$LastName,
-
-    [Parameter(Mandatory=$true)]
-    [string]$UserName,
-
-    [Parameter(Mandatory=$true)]
-    [string]$OU,
-
-    [Parameter(Mandatory=$true)]
-    [string]$Domain
-)
-
-# Example logic (simplified)
-$Password = ConvertTo-SecureString "P@ssw0rd123" -AsPlainText -Force
-
-New-ADUser `
-    -Name "$FirstName $LastName" `
-    -GivenName $FirstName `
-    -Surname $LastName `
-    -SamAccountName $UserName `
-    -UserPrincipalName "$UserName@$Domain" `
-    -Path $OU `
-    -AccountPassword $Password `
-    -Enabled $true
-
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/RNlco8a.png" height="80%" width="80%" alt="PowerShell script"/>
+<br />
+  
 <!--
  ```diff
 - text in red
