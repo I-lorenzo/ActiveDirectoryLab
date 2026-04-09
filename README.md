@@ -78,28 +78,7 @@ Launch the utility: <br/>
 
 ---
 
-## 📁 File Sharing & Permissions
-
-### 3. Shared Folder Configuration
-- Created a shared folder on the Domain Controller
-- Configured permissions
-- Assigned access based on user roles/groups
-- Restricted unauthorized access
-
-### 4. Network Drive Mapping
-- From Windows 11 client:
-  - Connected to shared folder via network path 
-  - Mapped the shared folder as a network drive
-- Enabled persistent drive mapping for user sessions
-
-### 5. Access Control Testing
-- Verified access using different domain user accounts:
-  - Confirmed read/write permissions
-  - Tested restricted users (access denied scenarios)
-  
----
-
-### 6. Organizational Structure
+### 3. Organizational Structure
 - Created Organizational Units (OUs):
   - Users
   - Groups
@@ -133,6 +112,52 @@ Launch the utility: <br/>
 Launch the utility: <br/>
 <img src="https://imgur.com/D79k6jt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+---
+
+## 📁 File Sharing & Permissions
+
+### 4. Shared Folder Configuration
+- Created a shared folder on the Domain Controller
+- Configured permissions
+- Assigned access based on user roles/groups
+- Restricted unauthorized access
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/ia2Aggi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/EbM6eMF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/Ezp60gZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+### 4. Network Drive Mapping
+- From Windows 11 client:
+  - Connected to shared folder via network path 
+  - Mapped the shared folder as a network drive
+- Enabled persistent drive mapping for user sessions
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/EyRWejh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/hzNJmOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+### 5. Access Control Testing
+- Verified access using different domain user accounts:
+  - Confirmed read/write permissions
+  - Tested restricted users (access denied scenarios)
 
 ---
 
