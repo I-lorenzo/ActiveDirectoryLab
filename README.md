@@ -24,7 +24,6 @@ This project demonstrates the setup and configuration of a fully functional **Ac
   - Client Machine (Windows 10/11)
 - Configured both machines on the same internal network
 
-  https://imgur.com/a/tVwAWzw
 
 <p align="center">
 Launch the utility: <br/>
