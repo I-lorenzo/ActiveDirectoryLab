@@ -27,7 +27,7 @@ This project demonstrates the setup and configuration of a fully functional **Ac
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/G81L1EE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/G81L1EE.png" height="80%" width="80%" alt="Setup"/>
 <br />
   
 ---
@@ -40,34 +40,34 @@ Launch the utility: <br/>
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/sIECu0q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/sIECu0q.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/JVZTS3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JVZTS3I.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/ONktJa5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ONktJa5.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/QthdfWs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QthdfWs.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/qsFqbHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qsFqbHX.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/RdMTDrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RdMTDrt.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/Yp0wJX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Yp0wJX2.png" height="80%" width="80%" alt="Domain Controller Configuration"/>
 <br />
 
 ---
